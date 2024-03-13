@@ -1,6 +1,6 @@
 # Project: 0x04. Files manager
 
-## Resources
+## Resource
 
 #### Read or watch:
 
