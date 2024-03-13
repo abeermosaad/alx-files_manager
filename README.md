@@ -27,7 +27,7 @@
 
 | Task | File |
 | ---- | ---- |
-| 0. Redis utils | [SOON](./) |
+| 0. Redis utils | [utils/redis.js](./utils/redis.js) |
 | 1. MongoDB utils | [SOON](./) |
 | 2. First API | [SOON](./) |
 | 3. Create a new user | [SOON](./) |
